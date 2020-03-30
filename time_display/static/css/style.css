@@ -1,0 +1,33 @@
+*{
+    margin: 10px;
+    padding: 0px;
+   }
+   #wrapper{
+    width: 650px;
+    height: 400px;
+    background-color: silver;
+    margin: 0px auto;
+   }
+#time {
+    vertical-align: middle;
+    text-align: center;
+    padding:10px;
+    margin-bottom: 10px;
+    border-style: solid;
+    border-color: darkslateblue;
+    border-width: 3px;
+    font-weight: bold;
+    height: 100px;
+    
+}
+
+ #clock {
+    border-style: solid;
+    border-color: darkslateblue;
+    border-width: 3px;
+    height: 200px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large;
+
+}
